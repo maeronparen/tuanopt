@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<div class="snowflakes">
+</div>
+    <div class="snowflake"><img src="https://png.pngtree.com/png-vector/20240315/ourmid/pngtree-soccer-ball-on-white-over-grey-background-football-oldstyle-png-image_11941305.png" width="20px" height="20px"></div>
+    <div class="snowflake"><img src="https://png.pngtree.com/png-vector/20240315/ourmid/pngtree-soccer-ball-on-white-over-grey-background-football-oldstyle-png-image_11941305.png" width="20px" height="20px"></div>
+    <div class="snowflake"><img src="https://png.pngtree.com/png-vector/20240315/ourmid/pngtree-soccer-ball-on-white-over-grey-background-football-oldstyle-png-image_11941305.png" width="20px" height="20px"></div>
+    <div class="snowflake"><img src="https://png.pngtree.com/png-vector/20240315/ourmid/pngtree-soccer-ball-on-white-over-grey-background-football-oldstyle-png-image_11941305.png" width="20px" height="20px"></div>
+    <div class="snowflake"><img src="https://png.pngtree.com/png-vector/20240315/ourmid/pngtree-soccer-ball-on-white-over-grey-background-football-oldstyle-png-image_11941305.png" width="20px" height="20px"></div>
+    <div class="snowflake"><img src="https://png.pngtree.com/png-vector/20240315/ourmid/pngtree-soccer-ball-on-white-over-grey-background-football-oldstyle-png-image_11941305.png" width="20px" height="20px"></div>
+    <div class="snowflake"><img src="https://png.pngtree.com/png-vector/20240315/ourmid/pngtree-soccer-ball-on-white-over-grey-background-football-oldstyle-png-image_11941305.png" width="20px" height="20px"></div>
+    <div class="snowflake"><img src="https://png.pngtree.com/png-vector/20240315/ourmid/pngtree-soccer-ball-on-white-over-grey-background-football-oldstyle-png-image_11941305.png" width="20px" height="20px"></div>
+    <div class="snowflake"><img src="https://png.pngtree.com/png-vector/20240315/ourmid/pngtree-soccer-ball-on-white-over-grey-background-football-oldstyle-png-image_11941305.png" width="20px" height="20px"></div>
+    <div class="snowflake"><img src="https://png.pngtree.com/png-vector/20240315/ourmid/pngtree-soccer-ball-on-white-over-grey-background-football-oldstyle-png-image_11941305.png" width="20px" height="20px"></div>
+    <div class="snowflake"><img src="https://png.pngtree.com/png-vector/20240315/ourmid/pngtree-soccer-ball-on-white-over-grey-background-football-oldstyle-png-image_11941305.png" width="20px" height="20px"></div>
+    <div class="snowflake"><img src="https://png.pngtree.com/png-vector/20240315/ourmid/pngtree-soccer-ball-on-white-over-grey-background-football-oldstyle-png-image_11941305.png" width="20px" height="20px"></div>
+    <div class="snowflake"><img src="https://png.pngtree.com/png-vector/20240315/ourmid/pngtree-soccer-ball-on-white-over-grey-background-football-oldstyle-png-image_11941305.png" width="20px" height="20px"></div>
+    <div class="snowflake"><img src="https://png.pngtree.com/png-vector/20240315/ourmid/pngtree-soccer-ball-on-white-over-grey-background-football-oldstyle-png-image_11941305.png" width="20px" height="20px"></div>
+    <div class="snowflake"><img src="https://png.pngtree.com/png-vector/20240315/ourmid/pngtree-soccer-ball-on-white-over-grey-background-football-oldstyle-png-image_11941305.png" width="20px" height="20px"></div>
+    <div class="snowflake"><img src="https://png.pngtree.com/png-vector/20240315/ourmid/pngtree-soccer-ball-on-white-over-grey-background-football-oldstyle-png-image_11941305.png" width="20px" height="20px"></div>
+    <div class="snowflake"><img src="https://png.pngtree.com/png-vector/20240315/ourmid/pngtree-soccer-ball-on-white-over-grey-background-football-oldstyle-png-image_11941305.png" width="20px" height="20px"></div>
+    <div class="snowflake"><img src="https://png.pngtree.com/png-vector/20240315/ourmid/pngtree-soccer-ball-on-white-over-grey-background-football-oldstyle-png-image_11941305.png" width="20px" height="20px"></div>
+    <div class="snowflake"><img src="https://png.pngtree.com/png-vector/20240315/ourmid/pngtree-soccer-ball-on-white-over-grey-background-football-oldstyle-png-image_11941305.png" width="20px" height="20px"></div>
+    <div class="snowflake"><img src="https://png.pngtree.com/png-vector/20240315/ourmid/pngtree-soccer-ball-on-white-over-grey-background-football-oldstyle-png-image_11941305.png" width="20px" height="20px"></div>
+    <div class="snowflake"><img src="https://png.pngtree.com/png-vector/20240315/ourmid/pngtree-soccer-ball-on-white-over-grey-background-football-oldstyle-png-image_11941305.png" width="20px" height="20px"></div>
+
+</div>
+    
+    <style>
+        @-webkit-keyframes snowflakes-fall{0%{top:-10%}100%{top:100%}}@-webkit-keyframes snowflakes-shake{0%,100%{-webkit-transform:translateX(0);transform:translateX(0)}50%{-webkit-transform:translateX(80px);transform:translateX(80px)}}@keyframes snowflakes-fall{0%{top:-10%}100%{top:100%}}@keyframes snowflakes-shake{0%,100%{transform:translateX(0)}50%{transform:translateX(80px)}}.snowflake{position:fixed;top:-10%;z-index:9999;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;cursor:default;-webkit-animation-name:snowflakes-fall,snowflakes-shake;-webkit-animation-duration:10s,3s;-webkit-animation-timing-function:linear,ease-in-out;-webkit-animation-iteration-count:infinite,infinite;-webkit-animation-play-state:running,running;animation-name:snowflakes-fall,snowflakes-shake;animation-duration:10s,3s;animation-timing-function:linear,ease-in-out;animation-iteration-count:infinite,infinite;animation-play-state:running,running}.snowflake:nth-of-type(0){left:1%;-webkit-animation-delay:0s,0s;animation-delay:0s,0s}.snowflake:nth-of-type(1){left:10%;-webkit-animation-delay:1s,1s;animation-delay:1s,1s}.snowflake:nth-of-type(2){left:20%;-webkit-animation-delay:6s,.5s;animation-delay:6s,.5s}.snowflake:nth-of-type(3){left:30%;-webkit-animation-delay:4s,2s;animation-delay:4s,2s}.snowflake:nth-of-type(4){left:40%;-webkit-animation-delay:2s,2s;animation-delay:2s,2s}.snowflake:nth-of-type(5){left:50%;-webkit-animation-delay:8s,3s;animation-delay:8s,3s}.snowflake:nth-of-type(6){left:60%;-webkit-animation-delay:6s,2s;animation-delay:6s,2s}.snowflake:nth-of-type(7){left:70%;-webkit-animation-delay:2.5s,1s;animation-delay:2.5s,1s}.snowflake:nth-of-type(8){left:80%;-webkit-animation-delay:1s,0s;animation-delay:1s,0s}.snowflake:nth-of-type(9){left:90%;-webkit-animation-delay:3s,1.5s;animation-delay:3s,1.5s}.snowflake:nth-of-type(10){left:25%;-webkit-animation-delay:2s,0s;animation-delay:2s,0s}.snowflake:nth-of-type(11){left:65%;-webkit-animation-delay:4s,2.5s;animation-delay:4s,2.5s}
+    </style>
+
+ 
+<body>
+<style type="text/css">body { cursor: url('data:image/x-icon;base64,AAACAAEAICAAAAAAAACoEAAAFgAAACgAAAAgAAAAQAAAAAEAIAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///////////////8AAAAAAAAAACQkJP///////////9bV1f8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA//////////////////////////8AAAAA//////////////////////n5+f8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD//////////////////////////8/Pz////////////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP////9nVCL/yqI2/8qiNv+yji7/4eHh/8uiNv/JoTb/yqE2/2NRIf//////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzKM3/8mhNv/Rpzj/Z2Vd/+/v7///////4ODh/0U8I//JoTb/yaE2/zcxHv8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAwMFTJoTb//////3Z2d////////////////////////////1JSU/96enj/yaE2/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzaQ3///////z8/P///////////8dNEb/Jond//7+/v///////////6urq/80MSb/DA0NJQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADJoTb////////////e3t7/F0Vo/yqW8f8CAgP/Kpbx/0RERv9vb2//9vb2///////OpDf/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABwYELMmhNv////////////////8JKED/KI7k/yB4wf8hesX/////////////////9vb2/8mhNv8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACGah7/yaE2/0Q1Df////////////39/f8qlvH/Kpbx/yua9//////////////////JoTb/yaE2/wkJCSwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANGnOP/JoTb/uJMv/zMAtf8eAXT/kJCP//Ly8v/+/v7/6enn/3Bwcv8mAZL/LgCo/86lOP/JoTb/XUoZ/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8PEFjJoTb/yaE2/y0Apv/s7Ov////////////j5OH/Gg5x/yYbnv85MlD/////////////////k5SQ/xcCaP/JoTb/yaE2/wsLDCMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACSdCL/yaE2/8mhNv/GnjT////////////z8/L/MyTJ/zMkyf8zJMn/MyTJ/zMkyf8zJMn/NSbR/////////////////8CZMv/JoTb/yaE2/z8yEP8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0ac4/8mhNv/JoTb/yaE1////////////09PQ/zMkyf8zJMn/MyTJ/zMkyf8zJMn/MyTJ/zMkyf8zJMn/MyTJ////////////KSUa/82kN//JoTb/yaE2/49xIv8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAXV5g////////////nn0n/8mhNv9CQDz///////////8yALH/LSC5/zMkyf8zJMn/FgJd/zIAsf8PB0f/MyTJ/zMkyf8JAjX/MgCx////////////yaE2/8mhNv+5urv/////////////////AAAAAAAAAAAAAAAAAAAAAF5fYf//////////////////////nHwn////////////MwC1/zIAsf8yALH/MgCx/zIAsf8yALH/MgCx/zIAsf8yALH/MgCx/zIAsf8yALH/MgCy//////85Ni7/JSAU///////////////////////9/f3/AAAAAAAAAAAAAAAA//////////////////////////+yji3//////+Pj4f8yALH/MgCx/zIAsf8yALH/MgCx/zIAsf8yALH/MgCx/zIAsf8yALH/MgCx/zIAsf8yALH////////////Kojb///////////////////////////8AAAAAAAAAAAAAAAD/////////////////////zc3N/3Z1b///////MwC2/zIAsf8yALH/MgCx/zIAsf8yALH/MgCx/zIAsf8yALH/MgCx/zIAsf8yALH/MgCx/zIAsf8OAj7//////8mhNv///////////////////////////wAAAAAAAAAAAAAAAA0NDVD///////////////9QPg7/Y2Nk//v7+///////////////////////amtj/xYFXf8xAK//MgCy/ysAof8RBU7/Nzg6//X19f////////////z8/P/x8fD/z6U4//n5+f////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABsbW3/QUFA/55+J//////////////////////////////////k5OT//////////////////////9/f3//v8PD/////////////////////////////////BAQFGgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeF4b///////////////////////+/v7/5+fn/7Gxsv///////////////////////Pz8/4SFhf+DhIT/hoaG/4aGhv+UlJX/oqOk//////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABaWVf///////////////////////////////////////////8vAKz/MgCx//7+/v///////////////////////////8rKyv//////NDUz/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADJoTb/////////////////s7Oz/////////////////zIAsf8yALH/MwC0/////////////////4aGiP///////////29jRf/JoTb/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMujNv9hTRT///////////////////////b29v//////RR+5/ywar/84ODv//////05OT///////////////////////zKM3/ywmFucAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADJoTb/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMmhNv/JoTb/TU9T//////////////////////9CQ0P/VFRU/4KCgv///////////0xNTv//////eF8d/8mhNv/JoTb/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMmhNv/JoTb/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFhYXw8mhNv/JoTb/zqU3/////////////////xQUFv//////EhIW/////////////////8mhNv/JoTb/yaE2/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAyaE2/7jJNv/JoTb/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHB0eo8mhNv/JoTb//////////////////////8vLzf/////////////////w8PD/yaE2/8mhNv8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADJoTb/uMk2/7jJNv/JoTb/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALSQL/8lHQj///////////9iY2P/yaE2/////////////////8mhNv9GORb/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMmhNv+4yTb/uMk2/7jJNv/JoTb/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANioK16qILf/AmTL/mHko/ygjF9cAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAyaE2/7jJNv+4yTb/uMk2/7jJNv/JoTb/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAdHh/3OTk5/0lLQv9RUVH/ICEilgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADJoTb/uMk2/7jJNv+4yTb/uMk2/7jJNv/JoTb/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEkVp/xAQEDgAAAAAAAAAAAsLCz4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMmhNv/JoTb/yaE2/8mhNv/JoTb/yaE2/8mhNv/JoTb/AAAAAAAAAAAAAAAAAAAAAAAAAABfX2H/Dg4OaAAAAAAAAAAAAAAAAAAAAAARERFoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA//GH///gg///4AP//+AD///gA///4AP//8AD///AAf//wAH//4AB//+AAP//AAB//AAAH/gAAA/gAAADwAAAAcAAAAHAAAAB4AAAA/AAAD/8AAA//AAAP/4AAD/+AAA/fwAAfz8AAP8fgAH/D+AD/wf8H/8D/B//Af9//wD7//8='), auto; }</style>
+    <head>
+        <style>
+          @font-face { font-family: JuneBug; src: url('JUNEBUG.TTF'); } 
+          h1 {
+             font-family: JuneBug
+          }
+        </style>
+       </head>
+</body>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CLVE_ICT_PT</title>
+    <link rel="stylesheet" href="./new-file.css">
+</head>
+<body>
+    <header>
+        <h1> Characteristics of the early church </h1>
+    </header>
+
+<article>
+<p> Acts 2:42-47 describes the early Christians as devoting themselves to the apostles' teaching, fellowship, breaking of bread, and prayer. It highlights their communal living, sharing possessions, and celebrating together with joy and sincerity. This passage emphasizes the ultimate commitment to community and faith, resulting in growth and favor among the people.
+</p>
+
+</article>
+
+    <article>
+
+        <iframe src="https://drive.google.com/file/d/19wNVV9l_W6RUT6WWD_ovSjDvApLTMp9H/preview" width="629" height="390" allow="autoplay"></iframe>
+<h2> The difference between early church and today’s church</h2>
+        <p> The early Church was characterized by a strong sense of community and fellowship, with believers gathering in homes for worship and sharing meals, whereas today’s Church often employs diverse worship styles and utilizes technology to engage members in various settings. Leadership in the early Church was informal and collaborative, with apostles and elders guiding the community, while contemporary churches typically have formal structures with designated roles like pastors and bishops. Worship practices in the early Church were simple and spontaneous, focused on prayer and the breaking of bread, in contrast to the structured liturgies and varied services found in many modern congregations. Additionally, early Christians faced significant persecution, which deepened their communal bonds, while today’s churches often focus on social justice and community outreach, adapting their practices to engage with current societal issues. Despite these differences, both the early Church and today’s Church share a core mission of spreading the Gospel and fostering a sense of community among believers. </p>
+      
+    </article>
+    <article>
+
+        <h2>How do you show your care in keeping the good practices of the Church today?</h2>
+
+        <p> I show my care in keeping the good practices of the Church today by actively participating in services and church activities, volunteering my time for outreach initiatives, and building relationships with fellow members. I engage in personal spiritual growth through study and prayer, encourage inclusivity by welcoming newcomers, and practice generosity through financial contributions and donations. Additionally, I advocate for social justice initiatives that align with the Church’s values, demonstrating my commitment to its mission and the community.</p>
+            
+
+
+    </article>
+
+
+
+    <footer>
+        <p style="color : #6c71a4;"> &copy; TUANO, CHARLES STEPHEN. CLVE & ICT PT</p>
+
+    </footer>
+</body>
+</html>
+  
